@@ -1,0 +1,4 @@
+Scanner scan = new Scanner (System.in);
+System.out.println("Hello! Welcome to my new GitHub page. What is your name?");
+String x = scan.nextLine();
+System.out.print ("Hi. My name is: " + x);
